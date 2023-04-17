@@ -1,4 +1,4 @@
-# Modelling_-_Sim_Project
+# Modelling_and_Sim_Project
 
 ## Installation Instructions for Skinulator
 1. Download both of the files in the repo.
